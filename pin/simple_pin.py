@@ -4,6 +4,7 @@ def permutation(lst):
     # If lst is empty then there are no permutations
     if len(lst) == 0:
         return []
+    #end if - add pseudocode comments please
  
     # If there is only one element in lst then, only
     # one permutation is possible
