@@ -7,7 +7,7 @@ for i in range(0,6):
 
 print("-----------")
 for i in range(5,-1,-1):
-    print(numbers[i], sep='', end='')
+    print(numbers[i], end='')
     total += numbers[i]
 #next
 
